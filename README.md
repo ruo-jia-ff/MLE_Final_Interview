@@ -66,13 +66,3 @@ For each pair (U, V):
 The objective is to minimize the error between the network output and the true Euclidean distance.
 
 ---
-
-## Educational Purpose
-
-Although Euclidean distance can be computed directly using a formula, this project demonstrates:
-
-- How neural networks can represent deterministic mathematical functions.
-- How convolutional structures can encode structured arithmetic operations.
-- The relationship between neural network layers and classical mathematical operators.
-
-This project is intended for educational and analytical exploration of how CNNs can model exact mathematical transformations.
