@@ -37,7 +37,7 @@ The model performs the Euclidean distance calculation in four conceptual steps:
    Take the square root of the total sum:
    sqrt( sum from i=1 to n of (ui - vi)^2 )
 
-The output of the network should match the output from a standard Euclidean Function.
+The output of the network should match the output for Euclidean Distance.
 
 ---
 
